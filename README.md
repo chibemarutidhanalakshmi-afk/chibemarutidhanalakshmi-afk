@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Dhana Lakshmi Chibe Maruti**<br>🎓 MSc Artificial Intelligence student – University of East London<br><br>📊 Aspiring Data Analyst with hands-on project experience<br>💻 Skilled in **Excel | SQL | Power BI | Python**<br><br>📈 Built dashboards & analysed ~10,000 sales records<br>🏢 Completed **Quantium | Tata | Deloitte** data analytics simulations<br><br>🛒 Currently working at **Sainsbury’s (UK)** – gaining real business & data exposure<br><br>🎯 Actively seeking **Data Analyst / Sales & Data Analyst roles in the UK**<br><br>📊 Interested in: Data Analysis | Business Insights | Data Visualisation<br>
+👋 Hi, I'm Maruthi Dhanalakshmi Chibe<br>🎓 MSc Artificial Intelligence student – University of East London<br><br>📊 Aspiring Data Analyst with hands-on project experience<br>💻 Skilled in **Excel | SQL | Power BI | Python**<br><br>📈 Built dashboards & analysed ~10,000 sales records<br>🏢 Completed **Quantium | Tata | Deloitte** data analytics simulations<br><br>🛒 Currently working at **Sainsbury’s (UK)** – gaining real business & data exposure<br><br>🎯 Actively seeking **Data Analyst / Sales & Data Analyst roles in the UK**<br><br>📊 Interested in: Data Analysis | Business Insights | Data Visualisation<br>
 
 
 ## 🌐 Socials:
